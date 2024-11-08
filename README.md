@@ -1,4 +1,4 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Module 14 challenge - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/IMG_0765.jpeg)
 
@@ -41,7 +41,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 ![hw](Images/IMG_0768.jpeg)
 
 6. Update all of the plots any time that a new sample is selected.
-
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 ![hw](Images/IMG_0770.jpeg)
